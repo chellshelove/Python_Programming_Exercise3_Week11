@@ -1,0 +1,5 @@
+singer1 always 3934
+singer2 taken 6873
+singer3 love_of_my _life 2768
+singer2 last_christmas 1973
+singer2 only 6873
